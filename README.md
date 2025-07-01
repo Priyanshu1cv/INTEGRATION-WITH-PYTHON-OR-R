@@ -52,8 +52,6 @@ This project presents an interactive and insightful **COVID-19 Dashboard** built
 
 ## 📷 Screenshots (Recommended)
 
-> You can add these screenshots under a folder named `/assets/` and link them:
-
 - `Dashboard_Overview.png`
 - `Python_Script_Visual.png`
 - `R_Script_Visual.png`
