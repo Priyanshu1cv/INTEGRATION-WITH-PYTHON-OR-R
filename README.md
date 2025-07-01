@@ -59,4 +59,25 @@ This project presents an interactive and insightful **COVID-19 Dashboard** built
 - `R_Script_Visual.png`
 - `Figma_Wireframe.png`
 
+## How to Use
+
+- Clone this repository or download the .pbix file.
+
+- Open the Covid-19.pbix file in Power BI Desktop.
+
+- Go to Options > Python scripting and R scripting:
+
+- Set your local paths for Python and R.
+
+- Ensure required libraries (e.g., matplotlib, seaborn) are installed.
+
+- Interact with the dashboard using slicers and filters.
+
+## Covid-19-Dashboard-Task4/
+│
+├── Covid-19.pbix                 # Power BI Dashboard file
+├── Covid-19.pdf                  # Dashboard screenshot/preview
+├── README.md                     # Project documentation
+└── assets/                       # Screenshots, Figma wireframes, etc.
+
 
