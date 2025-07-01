@@ -52,10 +52,10 @@ This project presents an interactive and insightful **COVID-19 Dashboard** built
 
 ## 📷 Screenshots (Recommended)
 
-- `Dashboard_Overview.png`
-- `Python_Script_Visual.png`
-- `R_Script_Visual.png`
-- `Figma_Wireframe.png`
+![Image](https://github.com/user-attachments/assets/dae54fa0-2529-4707-832e-f25544feea10)
+![Image](https://github.com/user-attachments/assets/b4ccb2cf-754a-4068-b0fd-851abcc9976c)
+![Image](https://github.com/user-attachments/assets/eb4cddfc-65d5-4ccc-bfb5-50344c76db0b)
+![Image](https://github.com/user-attachments/assets/3794e9e7-0e8a-4688-a6f1-89a24b416f6e)
 
 ## How to Use
 
